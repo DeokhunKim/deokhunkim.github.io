@@ -142,6 +142,8 @@ You can create a file `_data/navigation.yml` to configure links to some pages. F
   url: /categories/
 - title: Tags
   url: /tags/
+- title: Portfolio
+  url: /portfolio/
 ```
 
 The navigation bar also supports dropdown submenus:
@@ -155,8 +157,6 @@ The navigation bar also supports dropdown submenus:
   url: /tags/
 - title: More
   sublinks:
-    - title: FAQ
-      url: /faq/
     - title: Docs
       url: /docs/
 ```
@@ -166,11 +166,8 @@ The navigation bar also supports dropdown submenus:
 You can create a file `_data/social.yml` to configure links to your social media. For example,
 
 ```yml
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/DeokhunKim
   icon: fab fa-github
 ```
 
@@ -187,3 +184,5 @@ If you want to create more CSS styles in your site, creating a file `_sass/hamil
 ## License
 
 The theme is available as open source under the terms of the [MIT License](LICENSE.txt).
+
+https://github.com/zivong/jekyll-theme-hamilton

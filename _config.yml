@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+title: Do once archived, then no regrets
+description: 정보 전달을 위한 무거운 포스팅 보다는, 개인적인 개발 일지와 느낌점을 포스팅 하는 가벼운 블로그 입니다.
+author: Deokhun Kim
+avatar: /profile.jpeg
+email: koon0312@naver.com
 
 plugins:
   - jekyll-seo-tag
@@ -29,15 +29,13 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
-logo: logo.png
-social:
-  name: Shangzhi Huang
-  links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+#twitter:
+#  username: ngzhio
+#  card: summary
+#logo: logo.png
+#social:
+#  name: Deokhun Kim
+#  links:
+#    - https://github.com/DeokhunKim
+#google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+#lang: ko

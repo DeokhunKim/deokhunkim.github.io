@@ -1,12 +1,7 @@
 ---
-layout: post
-title: Web Messenger
-date: 2000-01-01
-categories: [WebMessenger]
-tags:
-author: Deokhun Kim
-comment: false
-update: 2022-01-30
+layout: page
+title: Toy Project - Web Messenger
+permalink: /WebMessenger/
 ---
 
 

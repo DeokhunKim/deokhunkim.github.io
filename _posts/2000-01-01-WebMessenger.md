@@ -126,22 +126,22 @@ update: 2022-01-30
 <ul>
     <li><p><strong>MongoDB의 Collection 내부의 List 삽입 속도</strong></p>
         <ul>
-            <li><p>https://deokhunkim.github.io/posts/webmessenger/MongoDB의-Collection-내부의-List-삽입-속도.html</p></li>
+            <li><p>https://deokhunkim.github.io/mongodb/2022/03/17/MongoDB의-Collection-내부의-List-삽입-속도.html</p></li>
         </ul>
     </li>
     <li><p><strong>JPA에서 pageable과 limit의 쿼리 차이</strong></p>
         <ul>
-            <li><p>https://deokhunkim.github.io/posts/webmessenger/JPA에서-pageable과-limit의-쿼리-차이.html</p></li>
+            <li><p>https://deokhunkim.github.io/spring/2022/03/19/JPA에서-pageable과-limit의-쿼리-차이.html</p></li>
         </ul>
     </li>
     <li><p><strong>JMeter를 이용한 WebSocket 테스트 방법</strong></p>
         <ul>
-            <li><p>https://deokhunkim.github.io/posts/webmessenger/JMeter를-이용한-WebSocket-테스트.html</p></li>
+            <li><p>https://deokhunkim.github.io/jmeter/2022/03/20/JMeter를-이용한-WebSocket-테스트.html</p></li>
         </ul>
     </li>
     <li><p><strong>메신저 웹소켓 처리</strong></p>
         <ul>
-            <li><p>https://deokhunkim.github.io/posts/webmessenger/메신저-웹소켓-처리.html</p></li>
+            <li><p>https://deokhunkim.github.io/spring/2022/03/20/메신저-웹소켓-처리.html</p></li>
         </ul>
     </li>
 </ul>'
